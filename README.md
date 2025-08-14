@@ -14,6 +14,11 @@ A collection of machine learning and data science projects completed as part of 
 - Evaluated model using accuracy, precision, recall, sensitivity, and F1 score.
 - Achieved over 97% accuracy.
 
+### 3. [Multivariate Imputation – Air Quality Dataset](./Multivariate-Imputation)
+- Used chained equations (MICE) to fill missing pollutant readings in an air quality dataset.
+- Preserved extreme peaks while ensuring data completeness for environmental health modeling.
+
+
 ---
 
 ## 🛠 Tools & Skills
