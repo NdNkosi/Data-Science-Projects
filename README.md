@@ -4,17 +4,17 @@ A collection of machine learning and data science projects completed as part of 
 
 ## 📂 Projects
 
-### 1. [Neural Network Classifier – Iris Dataset]
+### 1. Neural Network Classifier – Iris Dataset
 - Built and trained a feedforward neural network to classify iris flower species.
 - Applied min-max normalization and one-hot encoding.
 - Achieved over 95% test accuracy using Scikit-learn.
 
-### 2. [Random Forest Classifier – Rice Dataset](./Random-Forest-Rice)
+### 2. Random Forest Classifier – Rice Dataset
 - Implemented a random forest classifier to distinguish between Cammeo and Osmancik rice varieties.
 - Evaluated model using accuracy, precision, recall, sensitivity, and F1 score.
 - Achieved over 97% accuracy.
 
-### 3. [Multivariate Imputation – Air Quality Dataset](./Multivariate-Imputation)
+### 3. Multivariate Imputation – Air Quality Dataset
 - Used chained equations (MICE) to fill missing pollutant readings in an air quality dataset.
 - Preserved extreme peaks while ensuring data completeness for environmental health modeling.
 
