@@ -32,9 +32,9 @@ Predict whether an individual's income exceeds a certain threshold based on demo
    - Calculated accuracy, weighted precision, and weighted recall using `MulticlassClassificationEvaluator`.
 
 ## 📈 Results
-- **Accuracy:** ~XX% (update after running)
-- **Weighted Precision:** ~XX%
-- **Weighted Recall:** ~XX%
+- **Accuracy:** 84% (update after running)
+- **Weighted Precision:** 83%
+- **Weighted Recall:** 84%
 - Demonstrated scalability and efficiency of PySpark for classification tasks.
 
 ## 📚 Skills Learned
