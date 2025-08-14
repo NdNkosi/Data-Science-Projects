@@ -24,7 +24,7 @@ A collection of machine learning and data science projects completed as part of 
 ## 🛠 Tools & Skills
 - **Languages:** Python, SQL (R in progress)
 - **Libraries:** Pandas, Scikit-learn, Spark
-- **Upcoming Tools:** Tableau, Power BI
+- **Upcoming Tools:** Tableau, Power BI, Excel
 - **Concepts:** Data preprocessing, supervised learning, neural networks, ensemble methods, model evaluation
 
 ---
