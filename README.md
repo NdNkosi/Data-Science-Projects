@@ -28,4 +28,4 @@ A collection of machine learning and data science projects completed as part of 
 I am an aspiring data scientist currently completing my Postgraduate Diploma in Data Science. My projects focus on applying machine learning algorithms to real datasets, with an emphasis on clean preprocessing, model evaluation, and interpretation.
 
 📧 **Contact:** ndumiso95nkosi@gmail.com  
-🔗 **LinkedIn:** *[Insert your LinkedIn profile link here]*
+
