@@ -18,6 +18,11 @@ A collection of machine learning and data science projects completed as part of 
 - Used chained equations (MICE) to fill missing pollutant readings in an air quality dataset.
 - Preserved extreme peaks while ensuring data completeness for environmental health modeling.
 
+### 4. Income Prediction using PySpark
+- Built a distributed ML pipeline in PySpark to classify income levels using decision trees and feature engineering.
+- Achieved 84% accuracy while handling both categorical and numerical features efficiently.
+
+
 
 ---
 
