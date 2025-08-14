@@ -4,7 +4,7 @@ A collection of machine learning and data science projects completed as part of 
 
 ## 📂 Projects
 
-### 1. Neural Network Classifier – Iris Dataset
+1. Neural Network Classifier – Iris Dataset
 - Built and trained a feedforward neural network to classify iris flower species.
 - Applied min-max normalization and one-hot encoding.
 - Achieved over 95% test accuracy using Scikit-learn.
