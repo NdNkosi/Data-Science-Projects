@@ -1,0 +1,31 @@
+# Data Science Portfolio
+
+A collection of machine learning and data science projects completed as part of my Postgraduate Diploma in Data Science at the **University of the Witwatersrand**.
+
+## 📂 Projects
+
+### 1. [Neural Network Classifier – Iris Dataset](./Neural-Network-Iris)
+- Built and trained a feedforward neural network to classify iris flower species.
+- Applied min-max normalization and one-hot encoding.
+- Achieved over 95% test accuracy using Scikit-learn.
+
+### 2. [Random Forest Classifier – Rice Dataset](./Random-Forest-Rice)
+- Implemented a random forest classifier to distinguish between Cammeo and Osmancik rice varieties.
+- Evaluated model using accuracy, precision, recall, sensitivity, and F1 score.
+- Achieved over 97% accuracy.
+
+---
+
+## 🛠 Tools & Skills
+- **Languages:** Python, SQL (R in progress)
+- **Libraries:** Pandas, Scikit-learn, Spark
+- **Upcoming Tools:** Tableau, Power BI
+- **Concepts:** Data preprocessing, supervised learning, neural networks, ensemble methods, model evaluation
+
+---
+
+## 🎯 About Me
+I am an aspiring data scientist currently completing my Postgraduate Diploma in Data Science. My projects focus on applying machine learning algorithms to real datasets, with an emphasis on clean preprocessing, model evaluation, and interpretation.
+
+📧 **Contact:** ndumiso95nkosi@gmail.com  
+🔗 **LinkedIn:** *[Insert your LinkedIn profile link here]*
