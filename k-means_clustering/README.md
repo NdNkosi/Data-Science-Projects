@@ -25,7 +25,7 @@ This assignment draws on concepts from the lectures, including:
 
 * Distance-based clustering
 
-K-Means clustering algorithm
+* K-Means clustering algorithm
 
 * Choosing the optimal number of clusters
 
@@ -94,7 +94,7 @@ No additional libraries were used.
 
 * Differences in pollutant concentration patterns were clearly observable between clusters
 
-*The results were evaluated in terms of:
+* The results were evaluated in terms of:
 
   * Cluster separation
 
